@@ -1,0 +1,24 @@
+.image {
+    border-radius:50%;
+}
+
+h1 {
+    color: gray;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+span {
+    font-weight: 700;
+    color: darkgoldenrod;
+}
+
+.lead {
+    font-weight: lighter;
+    color: gray;
+}
+
+.features {
+    background-color: darkgoldenrod;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
